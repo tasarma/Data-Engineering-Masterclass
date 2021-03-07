@@ -17,6 +17,7 @@ cursor.fetchall()     --> Sorgu sonucu alınarak "myresult" a değişkenine atan
 
 for döngüsü kullanılarak istenilen sonuç ekrana yazılmıştır.
 
+<h2> "2000 yılından günümüze bir filmde müzik departmanında da yer almış aktrislerin listesi"</h2>
 <pre>
 +------------+-------------------+-----------+-----------+-------------------------------------+---------------------------------------------+
 | nconst     | primaryName       | birthYear | deathYear | primaryProfession                   | knownForTitles                              |
