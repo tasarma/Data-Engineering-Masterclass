@@ -17,4 +17,4 @@ cursor.fetchall()     --> Sorgu sonucu alınarak "myresult" a değişkenine atan
 
 for döngüsü kullanılarak istenilen sonuç ekrana yazılmıştır.
 
-
+<h2>"4 ya da daha fazla aktris bulunduran filmlerin sayısı"</h2>
