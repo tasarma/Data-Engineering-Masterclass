@@ -18,3 +18,15 @@ cursor.fetchall()     --> Sorgu sonucu alınarak "myresult" a değişkenine atan
 for döngüsü kullanılarak istenilen sonuç ekrana yazılmıştır.
 
 
+<pre>
++-----------------+--------------+---------------+---------------+
+| originalTitle   | seasonNumber | episodeNumber | averageRating |
++-----------------+--------------+---------------+---------------+
+| Game of Thrones |            5 | 8             |           9.9 |
+| Game of Thrones |            6 | 9             |           9.9 |
+| Game of Thrones |            6 | 10            |           9.9 |
+| Game of Thrones |            3 | 9             |           9.9 |
+| Game of Thrones |            7 | 4             |           9.8 |
++-----------------+--------------+---------------+---------------+
+
+</pre>
