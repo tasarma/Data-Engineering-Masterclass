@@ -1,5 +1,7 @@
 <h1> Sorgu: 6-c </h1>
 
+<h2> "Seçtiğiniz dizinin IMDB'de en çok kişi tarafından oylanmış 5 bölümü"</h2>
+
 <h2> Kütüphanelerin dahil edilmesi </h2>
 import mysql.connector --> Python'ı MySQL ile ilişki kurmak için dahil edilmiştir.
 import csv	       --> Veri setleri ".tsv" uzantılı oldukları için csv kütüphanesi dahil edilmiştir.
