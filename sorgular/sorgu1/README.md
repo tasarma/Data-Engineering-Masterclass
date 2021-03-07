@@ -1,6 +1,6 @@
 <h1> Sorgu: 6-a </h1>
 
-<h2> "Seçtiğiniz dizinin IMDB average rating'i en yüksek olan 5 bölümü"</h2>
+
 
 <h2> Kütüphanelerin dahil edilmesi </h2>
 import mysql.connector --> Python'ı MySQL ile ilişki kurmak için dahil edilmiştir.
@@ -19,7 +19,7 @@ cursor.fetchall()     --> Sorgu sonucu alınarak "myresult" a değişkenine atan
 
 for döngüsü kullanılarak istenilen sonuç ekrana yazılmıştır.
 
-
+<h2> "Seçtiğiniz dizinin IMDB average rating'i en yüksek olan 5 bölümü"</h2>
 <pre>
 +-----------------+--------------+---------------+---------------+
 | originalTitle   | seasonNumber | episodeNumber | averageRating |
