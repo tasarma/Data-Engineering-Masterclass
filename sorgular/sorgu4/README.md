@@ -17,4 +17,15 @@ cursor.fetchall()     --> Sorgu sonucu alınarak "myresult" a değişkenine atan
 
 for döngüsü kullanılarak istenilen sonuç ekrana yazılmıştır.
 
+<pre>
++-----------------+---------------+----------+
+| originalTitle   | episodeNumber | numVotes |
++-----------------+---------------+----------+
+| Game of Thrones | 3             |    23449 |
+| Game of Thrones | 7             |    23487 |
+| Game of Thrones | 2             |    23707 |
+| Game of Thrones | 4             |    23711 |
+| Game of Thrones | 5             |    23886 |
++-----------------+---------------+----------+
 
+</pre>
