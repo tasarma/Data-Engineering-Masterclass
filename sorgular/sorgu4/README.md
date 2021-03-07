@@ -17,6 +17,7 @@ cursor.fetchall()     --> Sorgu sonucu alınarak "myresult" a değişkenine atan
 
 for döngüsü kullanılarak istenilen sonuç ekrana yazılmıştır.
 
+<h2> "Seçtiğiniz dizinin IMDB'de en az kişi tarafından oylanmış 5 bölümü"</h2>
 <pre>
 +-----------------+---------------+----------+
 | originalTitle   | episodeNumber | numVotes |
